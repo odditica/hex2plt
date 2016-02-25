@@ -8,4 +8,4 @@ A tool that converts text files with hex colour values into these palette format
 
 Simply drag-and-drop your txt file onto the executable (or pass it as an argument) and the program will automatically convert and export the file in all those formats.
 
-**[Latest release](https://github.com/Blokatt/hex2plt/releases/latest)**
+##[Latest release](https://github.com/Blokatt/hex2plt/releases/latest)##
