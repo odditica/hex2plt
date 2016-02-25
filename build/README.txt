@@ -7,7 +7,6 @@
 Converts plain-text files with colour rgb hex values into various palette formats (Paint.NET, Photoshop (swatches), Gimp and PAL).
 Drag and drop your file on the executable or manually pass its full path as an argument from the command line.
 
-This thing is freeware.
 Hopefully it will be of use to someone.
 
 <3 Blokatt (Jan Vorisek)
