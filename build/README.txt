@@ -1,6 +1,6 @@
 //////////////////////////////////////
 // hex2plt 1.0                      //
-// Written in Python 3.4 by Blokatt //
+// Written in Python 3.5 by Blokatt //
 // @blokatt - blokatt.net           //
 //////////////////////////////////////
 
