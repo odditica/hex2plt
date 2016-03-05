@@ -1,7 +1,7 @@
 # hex2plt
 A tool that converts text files with hex colour values into these palette formats:
 
-- Photoshop swatches (*.PAL)
+- Photoshop swatches (*.ACO)
 - Gimp (*.GPL)
 - Paint.NET (*_pn.TXT)
 - *.PAL
